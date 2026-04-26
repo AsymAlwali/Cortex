@@ -72,3 +72,5 @@ and no more leads than you have today.
 
 Recommendation: Abort the VP hire. Hire a Head of Growth with a focus on
 execution.
+
+Rate of this text 1-10: _8_

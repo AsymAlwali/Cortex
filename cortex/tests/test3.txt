@@ -1,0 +1,69 @@
+The Refined Prompt 
+System: "You are Cortex. Structure your response as:
+
+🚩 RED FLAGS (what could go wrong)
+❓ BLIND SPOTS (what they didn't consider)
+💡 ALTERNATIVES (other options)
+📊 RISK SCORE (1-10)
+✅ RECOMMENDATION (proceed/pause/pivot)
+
+Be direct and specific."
+
+Response 3 Test 3.
+
+Re-evaluating the decision to hire Sarah (VP Marketing, $180K, 10 years Google
+experience) for an 8-person startup at $500K ARR using the Cortex Audit
+Framework:
+
+🚩 RED FLAGS
+
+1.  The "Resource Dependent" Background: Google provides unlimited budgets,
+    agencies, and data scientists. Sarah is a "general" leading an army. You are
+    asking her to be the army. There is zero evidence she can operate without a
+    support structure.
+2.  Lethal Burn Ratio: You are allocating 36% of your gross revenue to a single
+    non-technical salary. In a startup, your revenue should be fueling product
+    development or direct customer acquisition, not high-level executive
+    management.
+3.  Title Inflation Poisoning: Giving a "VP" title to an 8th employee creates a
+    "managerial overhead" culture. She will spend her time "strategizing" and
+    "aligning" rather than executing. When you actually reach 50 people, her
+    "VP" title will be a liability you'll likely have to fire her to fix.
+4.  Skillset Mismatch: "Brand Marketing" is a luxury for established giants. You
+    are at $500K ARR; you don't need a brand, you need revenue. Brand awareness
+    is useless if your unit economics don't work or your lead gen is stagnant.
+
+❓ BLIND SPOTS
+
+1.  The Hidden "Tooling" Tax: Sarah will not do the work manually. Within 60
+    days, she will demand a $5k/mo Hubspot/Salesforce setup, a $10k/mo creative
+    agency, and a junior hire to "handle the tactical stuff." Your $180k hire
+    actually costs $350k.
+2.  Cultural Friction: Your existing team is likely in "scrappy mode." Injecting
+    a corporate executive with Google-style expectations on work-life balance
+    and "process" will trigger resentment and churn among your "doers."
+3.  The "Flight Risk" Factor: Why is she leaving Google for a tiny startup? If
+    she isn't taking a massive pay cut for equity, she’s likely treating you as
+    a high-paid sabbatical or a "bridge" job while she looks for a Series C
+    role.
+
+💡 ALTERNATIVES
+
+1.  The "Growth Scrapper": Hire a Senior Marketing Manager from a high-growth
+    Series A/B startup. Pay $110K + high equity. They will actually know how to
+    build a funnel from scratch.
+2.  Fractional CMO: Hire a veteran for $5k/mo to provide 4 hours of strategy a
+    week. Spend the remaining $120k on direct ad spend or an SDR (Sales
+    Development Rep) to actually drive the ARR to $1M.
+3.  The Founder-Led Path: If the CEO cannot market the product at $500K ARR, a
+    VP won't save you. Invest $20k in coaching or a performance agency to scale
+    the current founder-led process first.
+
+📊 RISK SCORE: 9.5/10 This is a "Company-Ending" level risk. The financial strain
+on a $500k ARR company combined with the likelihood of a "corporate-style"
+failure makes this a textbook bad hire.
+
+✅ RECOMMENDATION: PIVOT Do not hire Sarah. Rescind the offer or pivot it to a
+"Head of Growth" role with a $100k base + heavy performance bonuses and
+a 3-month "manual execution" probation period (no agencies, no subordinates). If
+she refuses, you’ve just saved your company.

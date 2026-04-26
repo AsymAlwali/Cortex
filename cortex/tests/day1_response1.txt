@@ -1,0 +1,74 @@
+Test 1 day 1
+Challenge this decision:
+"We're hiring Sarah as VP Marketing for $180K.
+She has 10 years experience at Google in brand marketing.
+We're a 8-person startup with $500K ARR."
+
+The first answer 😅.
+
+The decision to hire Sarah as VP of Marketing is a classic "Big Company" trap.
+You are attempting to buy prestige and established systems for a company that
+likely doesn't have a product-market fit or a scalable sales engine yet.
+
+Here is the audit:
+
+1. Questioning the Assumptions
+
+  - Assumption: "Google experience translates to startup success." False. Google
+    is an environment of infinite resources, established brand equity, and
+    massive support teams. Sarah has spent a decade managing a machine; she
+    hasn't spent a decade building one from scratch.
+  - Assumption: "We need a VP." You have 8 people. You don't need a "Vice
+    President" to sit in meetings and strategize. You need a "Growth Hacker" or
+    a "Marketing Manager" to execute.
+  - Assumption: "Brand Marketing is the priority." At $500K ARR, your brand is
+    irrelevant if your lead generation is weak. Brand marketing is a luxury for
+    companies with cash to burn. You need customer acquisition.
+
+2. Blind Spots
+
+  - The "Doer" vs. "Manager" Gap: When was the last time Sarah actually set up a
+    Facebook Ad campaign, wrote her own copy, or manually scraped a lead list?
+    In a startup of 8, the VP must be the intern. If she expects an agency or a
+    team to do the work, your burn rate will triple.
+  - The Revenue-to-Salary Ratio: You are spending 36% of your total ARR on a
+    single hire’s salary (not including benefits, taxes, and equity). This is
+    mathematically reckless for a company at your stage.
+  - Resource Shock: Sarah is used to Google-sized budgets. When she asks for
+    $50k for a pilot program and you tell her the budget is $2k and a
+    subscription to Canva, she may paralyze.
+
+3. Red Flags
+
+1.  Over-titling: Giving a VP title at 8 people leaves you nowhere to go when
+    you actually scale.
+2.  The Salary Floor: $180K is a "corporate comfort" salary. It suggests she is
+    looking for a stable high-paying job rather than an equity-heavy startup
+    gamble.
+3.  Skillset Mismatch: "Brand Marketing" is about sentiment and awareness.
+    Startups at $500k ARR need "Performance Marketing" (DR/ROI). These are
+    different disciplines.
+4.  The Burn Rate Spike: Hiring a high-level executive usually triggers "The
+    Executive's First Request"—hiring an assistant or an agency because "their
+    time is too valuable for tactical work."
+
+4. Alternatives
+
+  - The Fractional CMO: Hire a veteran for 5-10 hours a week to set the
+    strategy, while keeping $130k in the bank to spend on actual ads or a junior
+    "doer."
+  - The "Hungry" Growth Lead: Hire a Senior Marketing Manager from a Series A/B
+    startup who is looking to prove themselves. Pay them $110k + high equity.
+    They will have the "building" muscle Sarah likely lacks.
+  - Wait for $1M ARR: At $500k, the founders should still be the primary drivers
+    of the marketing vision.
+
+5. Risk Score: 8.5/10
+
+Reasoning: You are making a "hero hire" to solve a structural growth problem.
+This hire will likely churn within 12 months when the "Google way" fails to work
+without a Google budget, leaving you with a $200k+ hole in your balance sheet
+and no more leads than you have today.
+
+Recommendation: Abort the VP hire. Hire a Head of Growth with a focus on
+execution.
